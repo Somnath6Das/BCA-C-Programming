@@ -12,7 +12,7 @@ int main()
     }
     else if (age > 65)
     {
-        printf("Sorry you are over age!");
+        printf("Sorry you are overage!");
     }
     else
     {
